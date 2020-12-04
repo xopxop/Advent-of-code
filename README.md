@@ -4,7 +4,8 @@ For more details, check <a href="https://adventofcode.com/">this website</a><br/
 <div>
 <strong>My journey so far:</strong>
 <ul>
-  <li>Day1: 2 stars</li>
-  <li>Day2: 2 stars</li>
+  <li>Day1: ⭐</li>
+  <li>Day2: ⭐</li>
+  <li>Day3: ⭐</li>
 </ul>
 </div>

@@ -7,5 +7,6 @@ For more details, check <a href="https://adventofcode.com/">this website</a><br/
   <li>Day1: ⭐</li>
   <li>Day2: ⭐</li>
   <li>Day3: ⭐</li>
+  <li>Day4: ⭐</li>
 </ul>
 </div>
